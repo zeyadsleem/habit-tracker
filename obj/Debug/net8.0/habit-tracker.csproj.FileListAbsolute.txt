@@ -1,0 +1,14 @@
+C:\Users\Nvidia\Desktop\projects\habit-tracker\bin\Debug\net8.0\habit-tracker.exe
+C:\Users\Nvidia\Desktop\projects\habit-tracker\bin\Debug\net8.0\habit-tracker.deps.json
+C:\Users\Nvidia\Desktop\projects\habit-tracker\bin\Debug\net8.0\habit-tracker.runtimeconfig.json
+C:\Users\Nvidia\Desktop\projects\habit-tracker\bin\Debug\net8.0\habit-tracker.dll
+C:\Users\Nvidia\Desktop\projects\habit-tracker\bin\Debug\net8.0\habit-tracker.pdb
+C:\Users\Nvidia\Desktop\projects\habit-tracker\obj\Debug\net8.0\habit-tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nvidia\Desktop\projects\habit-tracker\obj\Debug\net8.0\habit-tracker.AssemblyInfoInputs.cache
+C:\Users\Nvidia\Desktop\projects\habit-tracker\obj\Debug\net8.0\habit-tracker.AssemblyInfo.cs
+C:\Users\Nvidia\Desktop\projects\habit-tracker\obj\Debug\net8.0\habit-tracker.csproj.CoreCompileInputs.cache
+C:\Users\Nvidia\Desktop\projects\habit-tracker\obj\Debug\net8.0\habit-tracker.dll
+C:\Users\Nvidia\Desktop\projects\habit-tracker\obj\Debug\net8.0\refint\habit-tracker.dll
+C:\Users\Nvidia\Desktop\projects\habit-tracker\obj\Debug\net8.0\habit-tracker.pdb
+C:\Users\Nvidia\Desktop\projects\habit-tracker\obj\Debug\net8.0\habit-tracker.genruntimeconfig.cache
+C:\Users\Nvidia\Desktop\projects\habit-tracker\obj\Debug\net8.0\ref\habit-tracker.dll
