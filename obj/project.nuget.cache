@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "4Tsf3BTSCSBiyDFeu8LhOcV4L8QgecFefTyjWnGviqnm7G+fYDoqhcmx50d/Px/KhiMMSR74+hVYOjY78W8eCA==",
+  "dgSpecHash": "bp/FipyTtLxFJzkg8bstoHapzmlg92Y0ag7yby0TTusKwyd8g/X1l3fi1LPsNl6s0roQWQ8M/icF3CNQaeUWGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Nvidia\\Desktop\\projects\\habit-tracker\\habit-tracker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Nvidia\\.nuget\\packages\\microsoft.data.sqlite\\8.0.1\\microsoft.data.sqlite.8.0.1.nupkg.sha512",
+    "C:\\Users\\Nvidia\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.1\\microsoft.data.sqlite.core.8.0.1.nupkg.sha512",
+    "C:\\Users\\Nvidia\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Nvidia\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\Nvidia\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Nvidia\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\Nvidia\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }
